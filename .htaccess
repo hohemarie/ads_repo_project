@@ -1,0 +1,3 @@
+<FilesMatch ".doc$">
+Header set X-Robots-Tag "noindex, noarchive, nosnippet"
+</FilesMatch>
